@@ -29,4 +29,4 @@ jobs:
           path-to-document: 'https://github.com/cla-assistant/github-action/blob/master/SAPCLA.md' # e.g. a CLA or a DCO document
           # branch should not be protected
           branch: 'main'
-          allowlist: Sindrake,bot*
+          allowlist: bot*
