@@ -1,4 +1,3 @@
 # CLATest
 
-Making some changes  
-More changes
+Making some changes
