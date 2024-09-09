@@ -30,4 +30,4 @@ jobs:
           # branch should not be protected
           branch: 'main'
           allowlist: bot*
-          custom-notsigned-prcomment: "Thank you for your submission, we really appreciate it.\n\nLike many open-source projects, we ask that you sign our Contributor License Agreement before we can accept your contribution.\nYou can sign the CLA by making a comment following the format below:"
+          custom-notsigned-prcomment: "Thank you for your submission, we really appreciate it.\n\nLike many open-source projects, we ask that you sign our [Contributor License Agreement](https://github.com/e621ng/e621ng/blob/main/CLA.md) before we can accept your contribution.\nYou can sign the CLA by making a comment following the format below:"
